@@ -1,0 +1,2 @@
+# image-resource
+image-bed
