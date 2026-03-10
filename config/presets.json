@@ -63,5 +63,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1773150481851": {
+    "name": "aoi_sakura_(seak5545)（人物喜欢，背景不行）",
+    "suffix": "{{{masterpiece}}}, {best quality}, very aesthetic, detailed skin, glistening sweat, detailed eyes, blush, nsfw, {{{aoi sakura (seak5545)}}}, {{{ratatatat74}}}, {{{cutesexyrobutts}}}, {{{butcha-u}}}, detailed anatomy, highres, absurdres",
+    "neg": "lowres, bad anatomy, bad hands, extra limbs, mutated, deformed, blurry, text, watermark, clothed, censored, worst quality, low quality, jpeg artifacts",
+    "sampler": "k_euler_ancestral",
+    "steps": 50,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
